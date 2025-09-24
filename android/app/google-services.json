@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1054525747443",
+    "firebase_url": "https://safegaurd-6c58d-default-rtdb.firebaseio.com",
+    "project_id": "safegaurd-6c58d",
+    "storage_bucket": "safegaurd-6c58d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054525747443:android:4618acf4583d0148ba4786",
+        "android_client_info": {
+          "package_name": "com.example.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIfBbSsJBpAbvVKjarMNsZhfKS8V23R6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
