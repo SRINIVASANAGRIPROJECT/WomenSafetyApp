@@ -1,16 +1,29 @@
-# android
+# 🛡️ WomenSafetyApp
 
-A new Flutter project.
+**WomenSafetyApp** is a **Flutter mobile application** designed to improve personal safety.  
+It provides an **SOS button** and **shake detection feature** that instantly sends the user's **real-time location** to a pre-configured trusted contact in case of emergencies.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- 🆘 **SOS Button** – instantly send alert and live location  
+- 📡 **Shake Detection** – shaking the device for 3 seconds triggers an SOS alert  
+- 📍 **Real-time Location Sharing** – continuously updates location to the trusted contact  
+- 👥 **Trusted Contact Configuration** – user can set a custom emergency contact  
+- 📱 **Cross-platform** – works on Android and iOS (built with Flutter)  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Technologies Used
+- **Framework**: Flutter  
+- **Language**: Dart  
+- **Services**: Google Maps API / Location API (for real-time location)  
+- **Platform**: Android & iOS  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/Jerusha99/WomenSafetyApp.git
