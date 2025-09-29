@@ -17,12 +17,12 @@ jobs:
     - name: Set up Flutter
       uses: subosito/flutter-action@v2
       with:
-        flutter-version: '3.24.0'  # use Flutter version your project needs
+        flutter-version: '3.13.6-stable'  # Dart 3.9.x compatible
 
     - name: Install dependencies
       run: flutter pub get
 
-    - name: Build APK
+    - name: Build Release APK
       run: flutter build apk --release
 
     - name: Upload APK artifact
